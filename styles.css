@@ -6,14 +6,15 @@
 .testimonial{
 	background-color:#fff;
 	border: 1px solid #ddd;
-	padding:15px;
+	padding:10px;
 	margin-bottom:15px;
 }
 .text{
-	
+	font-size:12px
 }
 .author{
 	text-align:right;
 	font-style:italic;
+	font-size:12px
 }
 
